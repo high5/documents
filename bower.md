@@ -14,7 +14,7 @@
 
 
 2.
-bower.json
+bower.json detail
 
 ```bower.json
 {
