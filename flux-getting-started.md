@@ -143,7 +143,7 @@ flux-getting-started
 
 ```
 
-## gulpfile.js
+## gulpfile.js detail
 
 ```
 var gulp = require('gulp');
